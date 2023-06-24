@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 24 Jun 2023 13:00:21 +0800</lastBuildDate><atom:link href="https://centilinda.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to build and maintain this blog</title>
-      <link>https://centilinda.github.io/posts/24jun2023/</link>
+      <link>https://centilinda.github.io/posts/20230624/</link>
       <pubDate>Sat, 24 Jun 2023 13:00:21 +0800</pubDate>
       
-      <guid>https://centilinda.github.io/posts/24jun2023/</guid>
+      <guid>https://centilinda.github.io/posts/20230624/</guid>
       <description>1. Workflow Add posts by hugo new posts/post_name.md git add . git commit -m &amp;quot;&amp;quot; Generate the site by hugo cd public git add . git commit -m &amp;quot;&amp;quot; git push Run hugo server and view website locally at localhost:1313
 2. Resources Hugo-PaperMod (GitHub) MissCoding (YouTube) Envato Tuts+ (YouTube) Lil&amp;rsquo;Log Simon Willison&amp;rsquo;s Weblog Eli Bendersky&amp;rsquo;s website </description>
     </item>
