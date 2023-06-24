@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Yuwen&#39;s Blog</title>
-    <link>https://centilinda.github.io/</link>
-    <description>Recent content on Yuwen&#39;s Blog</description>
+    <title>TIL on Yuwen&#39;s Blog</title>
+    <link>https://centilinda.github.io/tags/til/</link>
+    <description>Recent content in TIL on Yuwen&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jun 2023 13:00:21 +0800</lastBuildDate><atom:link href="https://centilinda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jun 2023 13:00:21 +0800</lastBuildDate><atom:link href="https://centilinda.github.io/tags/til/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to build and maintain this blog</title>
       <link>https://centilinda.github.io/posts/24jun2023/</link>
@@ -16,7 +16,6 @@
       <description>1. Workflow Add posts by hugo new posts/post_name.md git add . git commit -m &amp;quot;&amp;quot; Generate the site by hugo cd public git add . git commit -m &amp;quot;&amp;quot; git push Run hugo server and view website locally at localhost:1313
 2. Resources Hugo-PaperMod (GitHub) MissCoding (YouTube) Envato Tuts+ (YouTube) Lil&amp;rsquo;Log Simon Willison&amp;rsquo;s Weblog Eli Bendersky&amp;rsquo;s website </description>
     </item>
-    
     
   </channel>
 </rss>
