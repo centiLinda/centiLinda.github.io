@@ -6,7 +6,17 @@
     <description>Recent content on Yuwen&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jun 2023 13:00:21 +0800</lastBuildDate><atom:link href="https://centilinda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jul 2023 10:50:59 +0800</lastBuildDate><atom:link href="https://centilinda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cleaning up my codebase</title>
+      <link>https://centilinda.github.io/posts/20230705/</link>
+      <pubDate>Wed, 05 Jul 2023 10:50:59 +0800</pubDate>
+      
+      <guid>https://centilinda.github.io/posts/20230705/</guid>
+      <description>It took me one entire week to rewrite my codebase and reexamine some of the old (passed down from the original repo) designs. It was a painful process and I had procrastinated forever to do this, but I&amp;rsquo;m glad I did it.
+The main reason why I wanted to rewrite is that none of my tests give any meaningful results, no matter how I modify the encoder etc. So the first thing I did was to restructure the code to make sure everything gets called properly.</description>
+    </item>
+    
     <item>
       <title>How to build and maintain this blog</title>
       <link>https://centilinda.github.io/posts/20230624/</link>
